@@ -16,6 +16,7 @@
 		35E437DD23F5CD800050338D /* Activity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35E437DC23F5CD800050338D /* Activity.swift */; };
 		35E437DF23F5CE760050338D /* ActivitiesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35E437DE23F5CE760050338D /* ActivitiesList.swift */; };
 		35E437E123F5D5D80050338D /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35E437E023F5D5D80050338D /* AddView.swift */; };
+		35E437E323F5DDA60050338D /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35E437E223F5DDA60050338D /* ActivityView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		35E437DC23F5CD800050338D /* Activity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Activity.swift; sourceTree = "<group>"; };
 		35E437DE23F5CE760050338D /* ActivitiesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivitiesList.swift; sourceTree = "<group>"; };
 		35E437E023F5D5D80050338D /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		35E437E223F5DDA60050338D /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				35E437CA23F5CC810050338D /* SceneDelegate.swift */,
 				35E437CC23F5CC810050338D /* ContentView.swift */,
 				35E437E023F5D5D80050338D /* AddView.swift */,
+				35E437E223F5DDA60050338D /* ActivityView.swift */,
 				35E437DC23F5CD800050338D /* Activity.swift */,
 				35E437DE23F5CE760050338D /* ActivitiesList.swift */,
 				35E437CE23F5CC820050338D /* Assets.xcassets */,
@@ -159,6 +162,7 @@
 				35E437CB23F5CC810050338D /* SceneDelegate.swift in Sources */,
 				35E437E123F5D5D80050338D /* AddView.swift in Sources */,
 				35E437DF23F5CE760050338D /* ActivitiesList.swift in Sources */,
+				35E437E323F5DDA60050338D /* ActivityView.swift in Sources */,
 				35E437DD23F5CD800050338D /* Activity.swift in Sources */,
 				35E437CD23F5CC810050338D /* ContentView.swift in Sources */,
 			);

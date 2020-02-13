@@ -16,11 +16,13 @@ struct ContentView: View {
         NavigationView {
             List {
                 ForEach(activities.items) { item in
-                    HStack {
-                        VStack(alignment: .leading) {
-                            Text(item.name)
-                                .font(.headline)
-                            Text(item.description)
+                    NavigationLink(destination: ActivityView(activity: item)) {
+                        HStack {
+                            VStack(alignment: .leading) {
+                                Text(item.name)
+                                    .font(.headline)
+                                Text(item.description)
+                            }
                         }
                     }
                 }
